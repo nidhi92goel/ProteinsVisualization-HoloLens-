@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Protein Structures</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Nidhi\Desktop\Protein Structures\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+</Project>

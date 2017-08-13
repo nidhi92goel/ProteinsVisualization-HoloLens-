@@ -1,0 +1,4 @@
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\Protein Structures\Protein Structures.csproj;x86
