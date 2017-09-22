@@ -1,0 +1,17 @@
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml.intermediate
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\layout.resfiles
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\layout.resfiles.intermediate
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\resources.resfiles
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\resources.resfiles.intermediate
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\pri.resfiles
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\pri.resfiles.intermediate
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\qualifiers.txt
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\qualifiers.txt.intermediate
+C:\Users\Nidhi\Desktop\Protein Structures\Proteins Visualization\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\MultipleQualifiersPerDimensionFound.txt
